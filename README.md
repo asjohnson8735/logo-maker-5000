@@ -12,7 +12,7 @@ This application allows you to use node.js to run some questions that will promp
 - [Questions](#questions)
 
 ## Preview
-Video of demonstration is in the examples folder
+Video of demonstration is in the examples folder and link is also here https://drive.google.com/file/d/1ClUwRA8yyaIvpT152_flLbbmBBUioYKs/view?usp=sharing
 
 ## Usage
 It is used to easily create a svg logo.
